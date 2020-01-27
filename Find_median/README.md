@@ -1,4 +1,4 @@
-# Find Max
+# Find Median
 > Finds the maximum value in a C++ Vector
 
 ## Installation
@@ -6,7 +6,7 @@
 You can copy this using this command:
 
 ```bash
-git clone https://github.com/ourarash/find_max.git
+git clone https://github.com/linyenting365/EE599_HW1.git
 ```
 
 ### Run main:
