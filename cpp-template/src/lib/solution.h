@@ -6,7 +6,9 @@
 
 class Solution {
 public:
-  std::string PrintMyname();
+   std::string PrintMyname();
+   int Factorial(int input);
+   int Factorial_recursive(int input);
 };
 
 #endif
